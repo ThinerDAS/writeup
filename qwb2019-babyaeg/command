@@ -1,0 +1,6 @@
+echo "# babyaeg environment dump"
+echo "## === ls -al /bin ==="
+ls -al /bin
+echo "## === cat flag ==="
+cat flag*
+echo "## === End of dump ==="
